@@ -1,6 +1,6 @@
 public class aa {
     public static void main(String[] args) {
-        System.out.println("1111111111111");
+        System.out.println("chun");
         int n =4;
         int a = su(n);
         System.out.println(a);
