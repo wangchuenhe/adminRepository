@@ -1,12 +1,6 @@
 public class aa {
     public static void main(String[] args) {
-        /*int n=0;
-
-        for (int i =0;i<=100;i++){
-            n+=i;
-            int a=n;
-            System.out.println(n);
-        }*/
+        System.out.println("1111111111111");
         int n =4;
         int a = su(n);
         System.out.println(a);
