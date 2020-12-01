@@ -10,7 +10,7 @@ public class Main {
         UserService userService = context.getBean(UserService.class);
         List<User> list = userService.queryUserList();
         for (User user:list) {
-            System.out.println(user.getUsername()+","+user.getPassword()+","+user.getPassword()+"aaaaaa");
+            System.out.println(user.getUsername()+","+user.getPassword()+","+user.getPassword());
         }
         context.destroy();
     }
