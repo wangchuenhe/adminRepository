@@ -6,6 +6,7 @@ public class aa {
         System.out.println(a);
     }
     public static int su(int n){
+        System.out.println("a");
         if (n==1){
             return 1;
         }
